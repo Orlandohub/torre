@@ -1,0 +1,10 @@
+version: '2.3'
+
+services:
+  face_recognition:
+    build:
+      context: .
+    ports:
+      - "5001:5000"
+    volumes:
+      - ./face_recognition:/usr/src/face_recognition

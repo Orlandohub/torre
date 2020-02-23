@@ -1,5 +1,4 @@
 # Torre
-<hr>
 
 ## Challenge
 
@@ -20,5 +19,5 @@ For simplicity sake due to the nature of this project and the limited time we ha
 
 ## Tech Stack
 
-- Python / Flask / Heroku: Microservice responsible for face recognition
-- React / Creat React App / Netlify: User interface
+- **Python / Flask / Heroku / Docker**: Microservice responsible for face recognition
+- **React / Creat React App / Netlify**: User interface
